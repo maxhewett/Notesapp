@@ -1,0 +1,142 @@
+@charset "UTF-8";
+/* CSS Document */
+body,html{
+	padding:0;
+	margin:0;
+	font-family: Cabin, Helvetica Neue, Helvetica, Arial, sans-serif;
+	text-align:center;
+    background-color:#FFFFFF;
+    min-width:200px;
+}
+ul{
+	text-align:center;
+	margin-left:-40px;
+}
+a{
+	cursor:pointer;
+}
+
+/*NAV*/
+#nav{
+	width:90%;
+	height:9vh;
+	background-color:#FFF;
+	border-bottom:#D0D0D0 solid 2px;
+	padding:1vh 5vw;
+	position:fixed;
+	z-index:+2;
+}
+#nav ul li{
+	display:inline;
+	padding:0 2vw;
+	font-size:4vh;
+}
+#nav ul li a{
+	color:#363636;
+	text-decoration:none;
+}
+#nav ul li a:hover{
+	color:#B5B5B5;
+}
+
+/*SUBBAR*/
+#subbar{
+	height:0;
+	-webkit-transition: 0.5s;
+	background-color:#898989;
+	color:#FFFFFF;
+	position:fixed;
+	z-index:+1;
+	margin-top:11.1vh;
+	width:100%;
+	border-bottom:#D0D0D0 solid 2px;
+}
+#subbar ul li{
+	display:inline;
+	padding:1vh 2vw;
+	font-size:4vh;
+}
+#subbar ul li a{
+	color:#D0D0D0;
+	text-decoration:none;
+}
+#subbar ul li a:hover{
+	color:#FFFFFF;
+}
+#texthide{
+	margin-top:-8vh;
+	-webkit-transition: 0.5s;
+}
+
+/*CONTAINER*/
+#container{
+	padding:15vh 2vw 0 2vw;
+	-webkit-transition: 0.5s;
+	text-align:center;
+}
+#container a{
+	border:2px #D0D0D0 solid;
+	padding:0 9px 2px 9px;
+	-webkit-border-radius:20px;
+	font-size:20px;
+	font-weight:bold;
+	float:right;
+	margin-left:-40px;
+	margin-right:10px;
+	margin-top:-10px;
+	color:#D0D0D0;
+}
+#container a:hover{
+	color:#959595;
+	border:2px #959595 solid;
+	cursor:pointer;
+}
+
+/*INPUTS*/
+textarea {
+   resize: none;
+   width:92vw;
+   height:20vh;
+   border:none;
+   text-align:left;
+   font-size:20px;
+   background-color:#E0E0E0;
+   padding:5px;
+   margin-bottom:20px;
+}
+textarea::-webkit-input-placeholder {
+    color:    #FFF;
+}
+input {
+	text-align:left;
+	width:50vw;
+	margin-left:-42vw;
+	border:none;
+	height:22px;
+	font-size:20px;
+	margin-bottom:5px;
+	text-decoration:underline;
+}
+input::-webkit-input-placeholder {
+    color:#CDCDCD;
+}
+textarea, input, button { outline: none; }
+
+/*BUTTON*/
+button{
+	text-align:center;
+	margin:0 auto;
+	font-size:20px;
+	border:#D0D0D0 solid 3px;
+	background-color:#FFF;
+	color:#CECECE;
+	-webkit-border-radius:20px;
+	padding:5px 20px;
+	margin-bottom:20px;
+    cursor:pointer;
+}
+
+/*animations*/
+#ph1,#ph2,#ph3,#ph4 {
+    -webkit-transition: 0.5s;
+}

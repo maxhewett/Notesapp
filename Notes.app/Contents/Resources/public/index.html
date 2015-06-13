@@ -1,0 +1,37 @@
+<!doctype html>
+<html id="html">
+<head>
+<meta charset="UTF-8">
+<link id="pagestyle" href="CSS/index.css" rel="stylesheet" type="text/css"/>
+<script src="JS/index.js" type="text/javascript"></script>
+<title>Notes</title>
+</head>
+
+<body id="body" onload="whatColour(); loadNotes();" onunload="loadNotes();">
+<div id="nav">
+	<ul>
+        <li><a style="float:left;" onclick="showsub();">Themes</a></li>
+        <li><a onclick="saveContent();"><img style="height:4vh; width:auto; margin-bottom:-2vh; float:right;" src="img/save-dark.png"</a></li>
+    </ul>
+</div><!--end nav div-->
+<div id="subbar">
+	<ul id="texthide">
+    	<li><a onclick="swapStyleSheet('CSS/colour1.css'); yellow();">Yellow</a></li>
+        <li><a onclick="swapStyleSheet('CSS/colour2.css'); blue();">Blue</a></li>
+        <li><a onclick="swapStyleSheet('CSS/index.css'); grey();">Grey</a></li>
+    </ul>
+</div><!--end subbar div-->
+<div id="container">
+<input id="title1" rows="1" cols="50" placeholder="Title"></input>
+<textarea id="note1" rows="1" cols="50" placeholder="Start Typing..."></textarea>
+<div id="ph1"></div>
+<div id="ph2"></div>
+<div id="ph3"></div>
+<div id="ph4"></div>
+</div>
+<div id="btn">
+<button onclick="newNote1(); loadNotes();">New Note</button>
+<br/>
+</div>
+</body>
+</html>
