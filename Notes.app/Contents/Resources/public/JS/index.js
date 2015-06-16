@@ -72,13 +72,13 @@ function whatColour(){
 		}
 	}
 }
-//SAVING
+SAVING
 
-//var save;
-
-//function savepage() {
-//    save = setTimeout(saveContent(), 10000);
-//}
+var save;
+//REVIEW!!
+function savepage() {
+    save = setInterval(saveContent(), 10000);
+}
 function loadNotes(){
     //1
     document.getElementById("title1").value = localStorage.getItem("title1");
