@@ -14,7 +14,7 @@ texthide.style.marginTop == "1.2vh" ? texthide.style.marginTop = "-8vh" : texthi
 }
 function movecont(){
 	var container = document.getElementById("container");
-container.style.paddingTop == "25vh" ? container.style.paddingTop = "15vh" : container.style.paddingTop = "25vh";
+container.style.paddingTop == "19vh" ? container.style.paddingTop = "9vh" : container.style.paddingTop = "19vh";
 }
 //new
 function newNote1(){
