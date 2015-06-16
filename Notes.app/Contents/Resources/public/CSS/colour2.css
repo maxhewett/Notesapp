@@ -18,7 +18,7 @@ a{
 /*NAV*/
 #nav{
 	width:90%;
-	height:9vh;
+	height:4vh;
 	background-color:#90D5FC;
 	border-bottom:#363636 solid 2px;
 	padding:1vh 5vw;
@@ -28,7 +28,7 @@ a{
 #nav ul li{
 	display:inline;
 	padding:0 2vw;
-	font-size:4vh;
+	font-size:3vh;
 }
 #nav ul li a{
 	color:#363636;
@@ -46,14 +46,14 @@ a{
 	color:#FFFFFF;
 	position:fixed;
 	z-index:+1;
-	margin-top:11.1vh;
+	margin-top:6.1vh;
 	width:100%;
 	border-bottom:#363636 solid 2px;
 }
 #subbar ul li{
 	display:inline;
 	padding:1vh 2vw;
-	font-size:4vh;
+	font-size:3vh;
 }
 #subbar ul li a{
 	color:#D0D0D0;
@@ -69,7 +69,7 @@ a{
 
 /*CONTAINER*/
 #container{
-	padding:15vh 2vw 0 2vw;
+	padding:9vh 2vw 0 2vw;
 	-webkit-transition: 0.5s;
 	text-align:center;
 }
@@ -98,7 +98,7 @@ textarea {
    height:20vh;
    border:none;
    text-align:left;
-   font-size:20px;
+   font-size:6vw;
    background-color:#90D5FC;
    padding:5px;
    margin-bottom:20px;
@@ -114,7 +114,7 @@ input {
 	margin-left:-43vw;
 	border:none;
 	height:22px;
-	font-size:20px;
+	font-size:8vw;
 	margin-bottom:5px;
 	text-decoration:underline;
 	background-color:#90D5FC;

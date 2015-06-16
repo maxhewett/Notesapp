@@ -46,35 +46,39 @@
 		</dict>
 		<key>Resources/public/CSS/colour1.css</key>
 		<data>
-		R609ZVbRGzHL+y5x3gr3LWZsMck=
+		mjpYZlJVnlx0AGJucZid7kFSFr4=
 		</data>
 		<key>Resources/public/CSS/colour2.css</key>
 		<data>
-		NLVYQdJbJlByk/R2ZGub65o7Tjw=
+		Zgq9HY0zP7MSnQ6V7KLGSVSYTII=
 		</data>
 		<key>Resources/public/CSS/index.css</key>
 		<data>
-		oUNaB2lODnYOlE+AYLeaWVzY2Vk=
+		vGWk4DkY3iUAMclI1U/5mP7j5MQ=
 		</data>
 		<key>Resources/public/JS/index.js</key>
 		<data>
-		dh2EiAPEFoW20l9iJbHwD/Yb9HI=
+		G1rHwsdeOhQ+ThS8cxrBmmsvMPQ=
 		</data>
 		<key>Resources/public/config.json</key>
 		<data>
-		4W7FvhCt/WTLblbkak5UaE9l9g0=
+		yO2njWnLUcQtr+GaRVlLIm0qHSY=
 		</data>
 		<key>Resources/public/img/save-dark.png</key>
 		<data>
-		UO1PrpeQTH5FqJWDEG9RQE9t1nU=
+		bHHhN54v5uvWkBGYYabVPudmW5w=
 		</data>
 		<key>Resources/public/img/save-light.png</key>
 		<data>
 		yiGi0jvb+julwNnpN+xNTJtN3PY=
 		</data>
+		<key>Resources/public/img/themes.png</key>
+		<data>
+		Oh04nV2QD9bjb/poW0CgUB9eFps=
+		</data>
 		<key>Resources/public/index.html</key>
 		<data>
-		twty9Nq1CvqDiiM4JvezCZkg9yA=
+		RhJzG4H34mjAxIRAcSWqAwjgvKI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -121,35 +125,39 @@
 		</dict>
 		<key>Resources/public/CSS/colour1.css</key>
 		<data>
-		R609ZVbRGzHL+y5x3gr3LWZsMck=
+		mjpYZlJVnlx0AGJucZid7kFSFr4=
 		</data>
 		<key>Resources/public/CSS/colour2.css</key>
 		<data>
-		NLVYQdJbJlByk/R2ZGub65o7Tjw=
+		Zgq9HY0zP7MSnQ6V7KLGSVSYTII=
 		</data>
 		<key>Resources/public/CSS/index.css</key>
 		<data>
-		oUNaB2lODnYOlE+AYLeaWVzY2Vk=
+		vGWk4DkY3iUAMclI1U/5mP7j5MQ=
 		</data>
 		<key>Resources/public/JS/index.js</key>
 		<data>
-		dh2EiAPEFoW20l9iJbHwD/Yb9HI=
+		G1rHwsdeOhQ+ThS8cxrBmmsvMPQ=
 		</data>
 		<key>Resources/public/config.json</key>
 		<data>
-		4W7FvhCt/WTLblbkak5UaE9l9g0=
+		yO2njWnLUcQtr+GaRVlLIm0qHSY=
 		</data>
 		<key>Resources/public/img/save-dark.png</key>
 		<data>
-		UO1PrpeQTH5FqJWDEG9RQE9t1nU=
+		bHHhN54v5uvWkBGYYabVPudmW5w=
 		</data>
 		<key>Resources/public/img/save-light.png</key>
 		<data>
 		yiGi0jvb+julwNnpN+xNTJtN3PY=
 		</data>
+		<key>Resources/public/img/themes.png</key>
+		<data>
+		Oh04nV2QD9bjb/poW0CgUB9eFps=
+		</data>
 		<key>Resources/public/index.html</key>
 		<data>
-		twty9Nq1CvqDiiM4JvezCZkg9yA=
+		RhJzG4H34mjAxIRAcSWqAwjgvKI=
 		</data>
 	</dict>
 	<key>rules</key>

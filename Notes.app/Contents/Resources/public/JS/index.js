@@ -6,11 +6,11 @@ function showsub(){
 }
 function subbar(){
 var subbar = document.getElementById("subbar");
-subbar.style.height == "10vh" ? subbar.style.height = "0" : subbar.style.height = "10vh";
+subbar.style.height == "6vh" ? subbar.style.height = "0" : subbar.style.height = "6vh";
 }
 function texthide(){
 var texthide = document.getElementById("texthide");
-texthide.style.marginTop == "2.5vh" ? texthide.style.marginTop = "-8vh" : texthide.style.marginTop = "2.5vh";
+texthide.style.marginTop == "1.2vh" ? texthide.style.marginTop = "-8vh" : texthide.style.marginTop = "1.2vh";
 }
 function movecont(){
 	var container = document.getElementById("container");
